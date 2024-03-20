@@ -13,10 +13,12 @@ Informar se esta mensagem é ou não um dado palíndromo (no caso de haver espa�
 OVO
 ARARA
 SOCORRAM ME SUBI NO ONIBUS EM MARROCOS
+
 Exercício 3 - À partir de uma lista de nomes disponível em um arquivo TXT, transforma-los em nomes no formato agenda telefônica. Exemplo:
 
 José Antonio Santos Silva
 Silva, José Antonio Santos
+
 Exercício 4 - À partir de uma lista de nomes disponível em um arquivo TXT, transforma-los em nomes no formato citação bibliográfica. Exemplo:
 
 José Antonio Santos Silva
