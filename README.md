@@ -1,4 +1,5 @@
 # exerciciostrings
+# BIANCA RIBEIRO - CB3025683
 
 Exercício 1  - Receber através de digitação uma mensagem. 
 
